@@ -50,8 +50,8 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 <h3>Infraestrutura e DevOps</h3>
 <ul>
     <li><strong>Gerente de Infraestrutura</strong>: Tito Couto - Gerencia a infraestrutura de TI.</li>
-    <li><strong>Engenheiros de DevOps</strong>: A contratar - Automatizam processos de desenvolvimento.</li>
-    <li><strong>Administradores de Sistemas</strong>: A contratar - Mantêm e administram sistemas e servidores.</li>
+    <li><strong>Engenheiros de DevOps</strong>: Gabrieli Rizzo - Automatizam processos de desenvolvimento.</li>
+    <li><strong>Administradores de Sistemas</strong>: Tito Couto e Gabrieli Rizzo - Mantêm e administram sistemas e servidores.</li>
 </ul>
 
 <h3>Suporte e Manutenção</h3>
