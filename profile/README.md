@@ -44,7 +44,7 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 <h3>Design e UX/UI</h3>
 <ul>
     <li><strong>Gerente de Design</strong>: Lucas Ponciano - Lidera a equipe de design.</li>
-    <li><strong>Designers UX/UI</strong>: Modelo de contrato de Freelancer (atualmente) - Desenvolvem layouts e interfaces.</li>
+    <li><strong>Designers UX/UI</strong>: Ric Sans - Modelo de contrato de Freelancer (atualmente) - Desenvolvem layouts e interfaces.</li>
 </ul>
 
 <h3>Infraestrutura e DevOps</h3>
