@@ -15,8 +15,7 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Diretoria</h3>
 <ul>
-    <li><strong>CEO</strong>: Irina Bezzan - Responsável pela direção geral da empresa.</li>
-    <li><strong>CTO</strong>: Gabrieli Rizzo - Responsável pela direção técnica e inovação.</li>
+    <li><strong>CEO</strong>: Gabrieli Rizzo - Responsável pela direção técnica e inovação.</li>
 </ul>
 
 <h3>Desenvolvimento de Software</h3>
@@ -36,7 +35,7 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Gerenciamento de Projetos</h3>
 <ul>
-    <li><strong>Gerente de Projetos</strong>: Will Cassarro - Responsável pelo planejamento e execução de projetos.</li>
+    <li><strong>Head de Produto</strong>: Will Cassarro - Responsável pelo planejamento e execução de projetos.</li>
     <li><strong>Squad Leaders</strong>: Bruno Leão e Wesley Souza - Coordenam equipes em projetos específicos.</li>
     <li><strong>Analistas de Negócios e Financeiro</strong>: Murillo Chimento - Realizam análises e gerenciam aspectos financeiros.</li>
 </ul>
@@ -63,7 +62,6 @@ Organograma <a href="https://www.ngb-lab.com">NGB</a>
 
 <h3>Marketing e Vendas</h3>
 <ul>
-    <li><strong>Head de Marketing</strong>: Eliézer Silva - Responsável pela estratégia de marketing.</li>
     <li><strong>Especialistas de Marketing Digital e CM</strong>: Fah Bormann - Gerenciam campanhas de marketing digital.</li>
 </ul>
 
