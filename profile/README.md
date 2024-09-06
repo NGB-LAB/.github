@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.ngb-lab.com/_next/image?url=%2FNGB-logo3d-with-glow.png&w=1920&q=75" height="200" alt="https://www.ngb-lab.com"  />
+  <img src="https://ngb.zone/wp-content/webp-express/webp-images/uploads/2024/08/ngb-M30w-009.png.webp" height="200" alt="https://ngb.zone"  />
 </div>
 
 ###
