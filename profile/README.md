@@ -9,7 +9,7 @@
   <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="35" alt="https://www.instagram.com/ngblab/"  />
 </div>
 
-Organograma <a href="https://www.ngb-lab.com">NGB</a>
+Organograma <a href="https://ngb.zone">NGB</a>
 
 <h2>Estrutura Organizacional</h2>
 
